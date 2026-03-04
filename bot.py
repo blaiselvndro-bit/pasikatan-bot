@@ -5,7 +5,7 @@ from database import cursor, conn
 
 TOKEN = os.environ.get("BOT_TOKEN")
 
-GROUP_ID = -100XXXXXXXXXX  # replace with your group id
+GROUP_ID = -1003529061193  # replace with your group id
 
 TOPICS = {
 "pagandahan":8,
